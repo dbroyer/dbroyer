@@ -2,7 +2,7 @@
 
 - 🗺 I'm in Texas
 - 🏢 Working at Americom Marketing
-- 🖥 Using NodeJS, HTML/CSS + Javascript, React, and PHP
+- 🖥 Using NodeJS, HTML/CSS + Javascript, React, Go, and PHP
 <!--
 **dbroyer/dbroyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
